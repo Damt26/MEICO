@@ -1,0 +1,9 @@
+{
+    "nombre": "Daniel Mercado Tapias",
+    "edad": 21,
+    "telefono": {
+        "tipoTelefono:": "celular",
+        "numTelefono": "3013637210"
+    },
+    "email": "damttrabajos@gmail.com"
+}

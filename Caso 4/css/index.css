@@ -1,0 +1,32 @@
+body, html {
+    background-color: white;
+}
+
+.form-content {}
+
+.input-content {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.input-style {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.btn-style {
+    width: 150px;
+    height: 30px;
+    margin: 20px 10px;
+}
+
+.bg-darkgray {
+    background-color: #708090;
+}
